@@ -1,0 +1,140 @@
+C:\Users\Acer\source\repos\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Proiect\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Acer\source\repos\Proiect\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Proiect\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Acer\source\repos\Proiect\Proiect\bin\Debug\Proiect.exe
+C:\Users\Acer\source\repos\Proiect\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Acer\source\repos\Proiect\Proiect\obj\Debug\Proiect.exe
+C:\Users\Acer\source\repos\Proiect\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Acer\source\repos\Proiect\Proiect\obj\Debug\Proiect.CreateAccount.resources
+C:\Users\Acer\source\repos\Proiect\Proiect\obj\Debug\Proiect.Login.resources
+C:\Users\Acer\source\repos\Proiect\Proiect\obj\Debug\Proiect.ReportBug.resources
+C:\Users\Acer\source\repos\Proiect\Proiect\obj\Debug\Proiect.showBugs.resources
+C:\Users\Acer\source\repos\Proiect\Proiect\obj\Debug\Proiect.userProfile.resources
+C:\Users\Acer\source\repos\Proiect\Proiect\obj\Debug\Proiect.BugTrackingApp.resources
+C:\Users\Acer\source\repos\Proiect\Proiect\obj\Debug\Proiect.Pricings.resources
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\obj\Debug\Proiect.bugsSent.resources
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\obj\Debug\Proiect.BugTrackingApp.resources
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\obj\Debug\Proiect.CreateAccount.resources
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\obj\Debug\Proiect.Login.resources
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\obj\Debug\Proiect.Pricings.resources
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\obj\Debug\Proiect.ReportBug.resources
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\obj\Debug\Proiect.showBugs.resources
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\obj\Debug\Proiect.userProfile.resources
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\obj\Debug\Proiect.exe
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\bin\Debug\Proiect.exe
+C:\Users\Acer\source\repos\Proiect - Copy\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\bin\Debug\Proiect.exe
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.BugTrackingApp.resources
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.CreateAccount.resources
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.Login.resources
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.Pricings.resources
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.ReportBug.resources
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.showBugs.resources
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.userProfile.resources
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.exe
+C:\Users\Acer\source\repos\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.BugTrackingApp.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.CreateAccount.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.Login.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.Pricings.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.ReportBug.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.showBugs.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.userProfile.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.exe
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\bin\Debug\Proiect.exe
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\bin\Debug\Proiect.exe
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.BugTrackingApp.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.CreateAccount.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Login.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Pricings.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.ReportBug.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.showBugs.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.userProfile.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.exe
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.programmerProfile.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\bin\Debug\Proiect.exe
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.CreateAccount.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Login.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Pricings.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.showBugs.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.exe
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Chart.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Pie.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Info.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.ProgrammerSolution.resources
+C:\Users\Acer\Desktop\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.UserSolution.resources
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Info.resources
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.CreateAccount.resources
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Chart.resources
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Login.resources
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Pie.resources
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Pricings.resources
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.showBugs.resources
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.ProgrammerSolution.resources
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.UserSolution.resources
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.exe
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.pdb
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\bin\Debug\Proiect.exe
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.ReportBug.resources
+C:\Users\Acer\Desktop\seminarii PAW\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Copyright.resources
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\bin\Debug\Proiect.exe.config
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\bin\Debug\Proiect.exe
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\bin\Debug\Proiect.pdb
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Copyright.resources
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Info.resources
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.CreateAccount.resources
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Chart.resources
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Login.resources
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Pie.resources
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Pricings.resources
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.Properties.Resources.resources
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.ReportBug.resources
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.showBugs.resources
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.ProgrammerSolution.resources
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.UserSolution.resources
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.exe
+C:\Users\Acer\Desktop\Anul II - Alexandra\PAWproiect_Ticketing_BuicaElenaAlexandra1046\PAWproiect_Ticketing_BuicaElenaAlexandra1046_1aprilie\Proiect\obj\Debug\Proiect.pdb

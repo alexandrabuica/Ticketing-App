@@ -1,0 +1,8 @@
+202/4/Browser Compatibility Problems/Website does look differently across all browsers/Networking/1/2020, 04, 20, 22:35:48 PM
+432/5/RAM failure/It’s malfunctioning, I get application crashes, blue screens, and file system corruption/Hardware/4/2020, 03, 27, 11:35:48 AM
+564/6/Duplicated IP Address/I got an error message that says that the IP address is already in use./Networking/2/2020, 02, 13, 22:35:48 PM
+102/7/Slow Performance/My applications are responding very slowly/Software/4/2020, 18, 8, 22:35:48 PM
+331/8/Functional issues/Design issues and text overlapping and cosmetic issues like the font problem/Other/1/2020, 04, 05, 22:35:48 PM
+817/9/Security vulnerabilities/Compromising authorization of access rights and privileges when entering the app/Security/4/2020, 04, 13, 22:35:48 PM
+110/10/Unanticipated user input/When I type the phone number, it puts it in the drivers license field and the drivers license in the phone field/Software/3/2020, 04, 12, 22:35:48 PM
+192/11/Error in units/Software asks for quantity as a number on a form - for example "weight in kilograms" - but then the calculations treat that number as if it was the weight in pounds/Software/3/2020, 04, 10, 13:42:21 PM
